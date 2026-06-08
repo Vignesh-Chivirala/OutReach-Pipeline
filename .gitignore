@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.env
+leads.csv
+*.pyc
+services/__pycache__/
+tests/__pycache__/
